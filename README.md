@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @Bhuvan3221
-- 👀 I’m interested in ...
+- 👀 I’m interested in craking codes
+
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on apke
+
+- 📫 How to reach me ... Pn.no 7058091500
+
 
 <!---
 Bhuvan3221/Bhuvan3221 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
